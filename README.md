@@ -5,6 +5,7 @@ js 检测设备
 detect by object browser.versions.(object)
 if(browser.versions.(object));
 object would be as the following list;
+
 trident  -->   IE
 presto   -->   Opera
 webKit   -->   Apple,Webkit
