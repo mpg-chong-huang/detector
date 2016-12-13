@@ -3,6 +3,11 @@
 js detector for IE opera webkit firefox ios android safari wechat qq
 js 检测设备 
 
+update to yeloscript  --> yelo.browser yelo.device
+
+https://github.com/yellowrush/yeloscript/blob/master/yeloscript.js
+
+
 detect by object browser.versions.(object)
 if(browser.versions.(object));
 object would be as the following list;
